@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+.caixa {
+    display: inline-block;
+    background-color: lightgray;
+    border: 1px solid black;
+    text-align: center;
+    height: 200px;
+    width: 200px;
+}
+
+
+
+
+div > p {
+    display: none;
+}
+
+.caixa:hover{
+    background-color: red;
+    color: white;
+    font-weight: bold;
+}
+
+div:hover > p {
+    display: block;
+    background-color: brown;
+    color: white;
+    width: 200px;
+}

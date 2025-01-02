@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+body{background-color: black;}
+h1{
+    color: white;
+    text-align: center;
+}
+#img1{position: absolute;
+left: 450px;}
+#img2{position: absolute;
+    left: 780px;}
+#img3{position: absolute;
+    left: 780px;
+    bottom:290px;
+} 
+#img4{position: absolute;
+    left: 450px;
+    bottom:290px;}
+
+.video{position: absolute;
+left: 490px;}
+
+.botao{
+    position: absolute;
+    top: 450px;
+    left: 730px;
+}
