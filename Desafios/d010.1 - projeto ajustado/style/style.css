@@ -180,3 +180,11 @@ footer {
     font-size: 1em;
     padding: 5px;
 }
+
+footer a {
+    color: white;
+}
+
+footer a:hover {
+    color: var(--cor0);
+}
